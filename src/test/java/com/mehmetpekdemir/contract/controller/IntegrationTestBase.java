@@ -9,7 +9,7 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.web.context.WebApplicationContext;
 
 /**
- * 
+ *
  * @author MEHMET PEKDEMIR
  * @since 1.0
  */

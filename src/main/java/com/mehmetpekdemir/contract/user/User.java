@@ -3,8 +3,9 @@ package com.mehmetpekdemir.contract.user;
 import lombok.Builder;
 import lombok.Data;
 
+import java.io.Serializable;
+
 /**
- * 
  * @author MEHMET PEKDEMIR
  * @since 1.0
  */
@@ -12,12 +13,12 @@ import lombok.Data;
 @Builder
 class User {
 
-	private Long id;
+    private Long id;
 
-	private String firstName;
+    private String firstName;
 
-	private String lastName;
+    private String lastName;
 
-	private String title;
+    private String title;
 
 }

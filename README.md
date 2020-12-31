@@ -16,7 +16,7 @@ For building and running the application you need:
 ### Build & Run 
 
 ```
-  mvn clean install && mvn --projects your_project_name spring-boot:run
+  mvn clean install && mvn --projects your_project_name spring-boot:run 'All Tests'
 ```
   
 ### Port

@@ -3,8 +3,6 @@ package com.mehmetpekdemir.contract.user;
 import lombok.Builder;
 import lombok.Data;
 
-import java.io.Serializable;
-
 /**
  * @author MEHMET PEKDEMIR
  * @since 1.0

@@ -3,7 +3,7 @@ package contracts.user
 import org.springframework.cloud.contract.spec.Contract
 
 Contract.make {
-    name "find users"
+    name "find user by username"
     description "should return correct user by username=Mehmet"
 
     request {
@@ -22,9 +22,7 @@ Contract.make {
                 firstName: "Mehmet",
                 lastName: "Pekdemir",
                 title: "Software Engineer"
-
         )
     }
-
 }
 

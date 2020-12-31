@@ -23,7 +23,5 @@ Contract.make {
                 lastName: "Pekdemir",
                 title: "Software Engineer"
         )
-
     }
-
 }
